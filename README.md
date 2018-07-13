@@ -49,5 +49,7 @@ def eye_aspect_ratio(eye):
 	# return the eye aspect ratio
 	return ear
 	```
+if the Eye Aspect Ratio is low for longer than the threshold value of 25 seconds then it is assumed that the driver has slept on
+the wheels , and alarm is araised.
 	
 
