@@ -1,3 +1,4 @@
+# usage detect.py -ln shape_predictor_68_face_landmark.dat --video video.mov
 #As learnt from Dr. Adrian Rosebrock...
 # import packages
 from scipy.spatial import distance
